@@ -5,5 +5,7 @@ package com.futuer.xsr.myapplication;
  */
 
 public class newJava {
-    
+    public void sss(){
+
+    }
 }
