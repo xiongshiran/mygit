@@ -5,4 +5,5 @@ package com.futuer.xsr.myapplication;
  */
 
 public class newJava {
+    
 }
